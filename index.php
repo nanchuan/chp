@@ -3,7 +3,7 @@ include_once 'header.php';
 ?>
 <table width="1000" border="0" cellspacing="0" cellpadding="0" class="mainBg">
   <tr>
-    <td width="236" height="45" align="center" class="hui">欢迎使用文章管理系统！</td>
+    <td width="236" height="45" align="center" class="hui">欢迎来到xxx2！</td>
     <td width="558" class="blue"><MARQUEE scrollAmount=1 scrollDelay=40 direction=left width=558 >
       <table width="528" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr>
@@ -13,7 +13,7 @@ include_once 'header.php';
       </table>
       </MARQUEE>
     </td>
-    <td width="206"><span class="hui">现在时间：2012年11月3日　星期六</span></td>
+    <td width="206"><span class="hui">现在时间：2017年5月12日　星期五</span></td>
   </tr>
   <tr>
     <td height="300" rowspan="2" valign="top" class="leftBoxLine">
@@ -46,8 +46,7 @@ include_once 'header.php';
         </tr>
         <tr>
           <td height="120" align="left" valign="top" class="hui" style="padding-left:10px"><br />
-            mial:webmaster@domain.com<br />
-            http://www.21cn.com
+            mial: nanchuan_t@foxmail.com
             </a> </td>
         </tr>
       </table></td>
@@ -95,10 +94,10 @@ include_once 'header.php';
       <tr>
         <th align="center" class="ProductLine"><form id="form1" name="form1" method="get" action="search.php">
             <p>
-              本站搜索
-                <br />
+              	本站搜索
+                <br /><br />
                 <input type="text" name="keywords" id="keywords" />
-                <br />
+                <br /><br />
                 <input type="submit" name="button" id="button" value="搜索" />
             </p>
         </form></th>
