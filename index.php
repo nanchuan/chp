@@ -3,7 +3,7 @@ include_once 'header.php';
 ?>
 <table width="1000" border="0" cellspacing="0" cellpadding="0" class="mainBg">
   <tr>
-    <td width="236" height="45" align="center" class="hui">欢迎来到xxx2！</td>
+    <td width="236" height="45" align="center" class="hui">欢迎来到luyuexin的空间！</td>
     <td width="558" class="blue"><MARQUEE scrollAmount=1 scrollDelay=40 direction=left width=558 >
       <table width="528" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr>
